@@ -1,18 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="284239a3-54c8-4391-abb2-503507edf380" name="Changes" comment="" />
+    <list default="true" id="284239a3-54c8-4391-abb2-503507edf380" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2gl0Ygetib2oeP9v2HoPzFSfQhH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,9 +38,27 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.02-class.executor": "Run",
+    "Python.abstraccion.executor": "Run",
+    "Python.acr-05.1.executor": "Run",
+    "Python.act 03.executor": "Run",
+    "Python.act-05.2.executor": "Run",
+    "Python.act-05.3.executor": "Run",
+    "Python.act-05.executor": "Run",
+    "Python.act.04.executor": "Run",
+    "Python.clasesbastractas.executor": "Run",
+    "Python.decoradores.executor": "Run",
+    "Python.encapsulamiento.executor": "Run",
+    "Python.ñero.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.customizations",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -44,7 +79,48 @@
       <option name="presentableId" value="Default" />
       <updated>1716256911622</updated>
       <workItem from="1716256934906" duration="103000" />
+      <workItem from="1716257233132" duration="1554000" />
+      <workItem from="1716346808259" duration="896000" />
+      <workItem from="1716426773415" duration="652000" />
+      <workItem from="1716599665077" duration="1000000" />
+      <workItem from="1716859032571" duration="2362000" />
+      <workItem from="1716861512325" duration="2259000" />
+      <workItem from="1717031834967" duration="3013000" />
+      <workItem from="1717100086501" duration="2092000" />
+      <workItem from="1717105574770" duration="1965000" />
+      <workItem from="1717119807376" duration="3321000" />
+      <workItem from="1717198222786" duration="426000" />
+      <workItem from="1717203722963" duration="1004000" />
+      <workItem from="1717455066553" duration="621000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PrograOO$act_05.coverage" NAME="act-05 Coverage Results" MODIFIED="1717204282866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts/primer parcial" />
+    <SUITE FILE_PATH="coverage/PrograOO$act_05_3.coverage" NAME="act-05.3 Coverage Results" MODIFIED="1717204320251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts/primer parcial" />
+    <SUITE FILE_PATH="coverage/PrograOO$act_04.coverage" NAME="act.04 Coverage Results" MODIFIED="1717100651051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts/primer parcial" />
+    <SUITE FILE_PATH="coverage/PrograOO$ñero.coverage" NAME="ñero Coverage Results" MODIFIED="1717100530794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts/primer parcial" />
+    <SUITE FILE_PATH="coverage/PrograOO$abstraccion.coverage" NAME="abstraccion Coverage Results" MODIFIED="1716862302854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts/primer parcial" />
+    <SUITE FILE_PATH="coverage/PrograOO$02_class.coverage" NAME="02-class Coverage Results" MODIFIED="1717100864611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts/primer parcial" />
+    <SUITE FILE_PATH="coverage/PrograOO$encapsulamiento.coverage" NAME="encapsulamiento Coverage Results" MODIFIED="1716904039458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts" />
+    <SUITE FILE_PATH="coverage/PrograOO$act_03.coverage" NAME="act 03 Coverage Results" MODIFIED="1717100780662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts/primer parcial" />
+    <SUITE FILE_PATH="coverage/PrograOO$decoradores.coverage" NAME="decoradores Coverage Results" MODIFIED="1716860851072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts/primer parcial" />
+    <SUITE FILE_PATH="coverage/PrograOO$clasesbastractas.coverage" NAME="clasesbastractas Coverage Results" MODIFIED="1717034018222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts/primer parcial" />
+    <SUITE FILE_PATH="coverage/PrograOO$act_05_2.coverage" NAME="act-05.2 Coverage Results" MODIFIED="1717204309730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts/primer parcial" />
+    <SUITE FILE_PATH="coverage/PrograOO$acr_05_1.coverage" NAME="acr-05.1 Coverage Results" MODIFIED="1717204295589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Scripts/primer parcial" />
   </component>
 </project>
